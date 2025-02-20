@@ -1,0 +1,1 @@
+export { TablesPage as default } from '@/features/tables/pages/tables-page'

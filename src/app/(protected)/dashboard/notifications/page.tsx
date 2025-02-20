@@ -1,0 +1,1 @@
+export { NotifPage as default } from '@/features/notifications/pages/notif-page'
